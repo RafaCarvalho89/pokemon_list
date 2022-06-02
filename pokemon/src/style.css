@@ -149,6 +149,10 @@
     transition: transform 0.5s;
 }
 
+.button6:hover {
+    transform: scale(1.1);
+}
+
 .main {
     display: flex;
     flex-direction: column;
